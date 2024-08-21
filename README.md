@@ -34,10 +34,12 @@ Use the custom `Trigger Sitecore Event` template.
 
 Configure the Sitecore Event as needed
 
-* Event Type: Choose from Goal, Campaign, Event and more
-* ID: GUID of the Event / Goal / Campaign you want to trigger (make sure it's deployed)
-* Event data: Optional data to send with a goal if needed
-* API Key: The JSS/Headless API Key
+| Property      | Description |
+| ----------- | ----------- |
+| Event Type      | Choose from Goal, Campaign, Event and more       |
+| ID   | GUID of the Event / Goal / Campaign you want to trigger (make sure it's deployed)        |
+| Event data   | Optional data to send with a goal if needed |
+| API Key   | The JSS/Headless API Key |
 
 ![Tag Configuration](/img/configure-tag.jpg "Tag configuration")
 
